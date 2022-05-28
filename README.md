@@ -57,7 +57,7 @@ I was quite handy on frontend before the project but not had anything to do with
 ## Documentation 🎓
 [Link To folder]()
 - [Link to report]()
-## UI
+## UI screenshots
 
 <img src="https://user-images.githubusercontent.com/77635325/170841450-e361aaf5-9ae4-4190-ad63-c5a8081b81c1.png" width="45%"></img>
 <img src="https://user-images.githubusercontent.com/77635325/170841454-0f7a447a-dca8-4980-a239-0239c1baa41a.png" width="45%"></img>
