@@ -51,7 +51,7 @@ using a Linear SVM (scikit-learn)
 
 ## Learnings from the project
 
-I was quite handy on frontend before the project but not had anything to do with the backend. i used django here of which have seen a tutorial before but first time i applied it on a project. yes it is my first django project and firstly explored the libraries like open-cv and imutils. i was having so difficulties at first dealing with the face-recognition part. it took more than a week for implementing the recognition models and come out with the clustering technique with face_recognition library. Then there comes the web development part which firstly had a lot of planning that what functions it should have and all. But i worked with django and bootstrab + HTML and by searching on google itself i debug the things like moduleError and integration errors and others.
+I was quite handy on frontend before the project but not had anything to do with the backend. i used django here of which have seen a tutorial before but first time i applied it on a project. yes it is my first django project and firstly explored the libraries like open-cv and imutils. i was having so difficulties at first dealing with the face-recognition part. it took more than a week for implementing the recognition models and come out with the clustering technique with face_recognition library and classified with the Linear SVM by sk-learn. Then there comes the web development part which firstly had a lot of planning that what functions it should have and all. But i worked with django and bootstrab + HTML and by searching on google itself i debug the things like moduleError and integration errors and others.
 - I have documented the project in the report which link has been given below.
 
 ## Documentation 🎓
