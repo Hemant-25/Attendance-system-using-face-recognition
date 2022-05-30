@@ -7,7 +7,7 @@ This project is a web-based application demonstrating the use of facial recognit
 This project aims to automate the traditional attendance system where the attendance is marked manually. It also enables an organization to maintain its records like in-time and attendance digitally. Digitalization of the system would also help in better visualization of the data using graphs to display the no. of students present today. Its added features serve as an efficient upgrade and replacement over the traditional attendance system.
 ## Built Using
 
-- **OpenCV** (opencv-python==4.4.0.46) - Open Source Computer Vision and Machine Learning software library
+- **OpenCV** **```(opencv-python==4.4.0.46)```** - Open Source Computer Vision and Machine Learning software library
 - **Dlib** - C++ Library containing Machine Learning Algorithms
 - **face_recognition** by Adam Geitgey 
 - **Django**- Python framework for web development.
@@ -48,6 +48,13 @@ using a Linear SVM (scikit-learn)
 - install the  **``` required libraries and python files inside ```** the directory
 - Run **``` python manage.py runserver ```** inside the directory to run the project
 - Enjoy !
+# Error you may get while running
+Please make sure you install **```(opencv-python==4.4.0.46)```** otherwise you may get this error-
+
+<img src="https://user-images.githubusercontent.com/77635325/171044051-92e7628f-24cc-4a14-b488-0406ffa89a18.png" width="60%"></img>
+
+Also make sure there are more than one student's photos are added otherwise it cannot train the data with only one student.
+
 
 ## Learnings from the project
 
